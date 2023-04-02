@@ -1,0 +1,81 @@
+/*
+This file is part of Stack Exchange Focused.
+
+Stack Exchange Focused is free software: you can redistribute it
+and/or modify it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at your option)
+any later version.
+
+Stack Exchange Focused is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Stack Exchange Focused.
+If not, see <https://www.gnu.org/licenses/>.
+*/
+
+/* Right Sidebar */
+#sidebar {
+    display: none;
+}
+
+/* Left Sidebar */
+#left-sidebar {
+    display: none;
+}
+
+/* Sign Up Popup at the Top */
+.py24.bg-black-750.fc-black-200.ps-relative.js-dismissable-hero {
+    display: none;
+}
+
+/* Search and Login Panel at the Top */
+.s-topbar.ps-fixed.t0.l0.js-top-bar {
+    display: none;
+}
+
+/* Ask a Question Button */
+#question-header div {
+    display: none;
+}
+
+/* Get rid of white line around the content */
+#content {
+    border: none !important;
+}
+
+/* Post an Answer */
+#post-form {
+    display: none;
+}
+
+/* Bottom Notice */
+.bottom-notice {
+    display: none;
+}
+
+/* Related Questions */
+#inline_related_var_a_less {
+    display: none;
+}
+
+/* More Related Questions */
+#mainbar div.w100.ta-center.pt8 {
+    display: none;
+}
+
+/* Footer */
+#footer {
+    display: none;
+}
+#notify-container {
+    display: none;
+}
+#custom-header {
+    display: none;
+}
+
+/* Cookies Consent Notice */
+.js-consent-banner {
+    display: none;
+}
