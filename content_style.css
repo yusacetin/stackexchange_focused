@@ -79,3 +79,8 @@ If not, see <https://www.gnu.org/licenses/>.
 .js-consent-banner {
     display: none;
 }
+
+/* Bottom Popup */
+.js-dismissable-hero {
+    display: none;
+}
