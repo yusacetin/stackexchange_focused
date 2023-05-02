@@ -1,5 +1,5 @@
 ## Stack Exchange Focused
-Remove basically everything other than the question, comments, and answers from Stack Exchange sites on Google Chrome.
+Remove basically everything other than the question, comments, and answers from Stack Exchange sites on Google Chrome and Firefox.
 
 ### Installation
 #### Chrome
