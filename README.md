@@ -21,7 +21,7 @@ Remove basically everything other than the question, comments, and answers from 
 * Select [project root]/build/firefox/zipped/stackexchange_focused_firefox.zip
 
 ### Known Issues
-There is a small delay after the webpage is opened before the effect is applied in Firefox.
+There is a small delay after the webpage is loaded before the effect is applied in Firefox.
 
 ### License
 GNU General Public License version 3 or later. See LICENSE.txt for more information.
