@@ -1,3 +1,6 @@
+## Deprecated Project
+This project is not going to be updated, please use the new JavaScript based reimplementation. This one still works perfectly fine on Chrome so I'm not going to take it down, if you don't like running JavaScript on your browser you may still use it.
+
 ## Stack Exchange Focused
 Remove basically everything other than the question, comments, and answers from question pages on Stack Exchange sites on Google Chrome and Firefox.
 
